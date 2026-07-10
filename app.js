@@ -472,35 +472,45 @@ function setupEventListeners() {
   });
 
   // Open Configuration Drawer
-  configBtn.addEventListener('click', () => {
-    configDrawer.classList.remove('hidden');
-    setTimeout(() => {
-      drawerOverlay.classList.remove('opacity-0');
-      drawerOverlay.classList.add('opacity-100');
-      drawerContent.classList.remove('translate-x-full');
-      drawerContent.classList.add('translate-x-0');
-    }, 10);
-  });
+  if (configBtn) {
+    configBtn.addEventListener('click', () => {
+      configDrawer.classList.remove('hidden');
+      setTimeout(() => {
+        drawerOverlay.classList.remove('opacity-0');
+        drawerOverlay.classList.add('opacity-100');
+        drawerContent.classList.remove('translate-x-full');
+        drawerContent.classList.add('translate-x-0');
+      }, 10);
+    });
+  }
 
   // Close Configuration Drawer
   const closeDrawer = () => {
-    drawerOverlay.classList.remove('opacity-100');
-    drawerOverlay.classList.add('opacity-0');
-    drawerContent.classList.remove('translate-x-0');
-    drawerContent.classList.add('translate-x-full');
+    if (drawerOverlay) {
+      drawerOverlay.classList.remove('opacity-100');
+      drawerOverlay.classList.add('opacity-0');
+    }
+    if (drawerContent) {
+      drawerContent.classList.remove('translate-x-0');
+      drawerContent.classList.add('translate-x-full');
+    }
     setTimeout(() => {
-      configDrawer.classList.add('hidden');
+      if (configDrawer) {
+        configDrawer.classList.add('hidden');
+      }
     }, 300);
   };
 
-  drawerClose.addEventListener('click', closeDrawer);
-  drawerOverlay.addEventListener('click', closeDrawer);
-  drawerSaveBtn.addEventListener('click', closeDrawer);
+  if (drawerClose) drawerClose.addEventListener('click', closeDrawer);
+  if (drawerOverlay) drawerOverlay.addEventListener('click', closeDrawer);
+  if (drawerSaveBtn) drawerSaveBtn.addEventListener('click', closeDrawer);
 
   // Sync Button - Alerts instructions
-  syncInfoBtn.addEventListener('click', () => {
-    alert("To synchronize and fetch live profile statistics, please run the local sync script in your terminal:\n\nnode sync.js\n\nOnce completed, reload the web page to load the fresh models.json file.");
-  });
+  if (syncInfoBtn) {
+    syncInfoBtn.addEventListener('click', () => {
+      alert("To synchronize and fetch live profile statistics, please run the local sync script in your terminal:\n\nnode sync.js\n\nOnce completed, reload the web page to load the fresh models.json file.");
+    });
+  }
 
   // Copy sync command
   copyCmdBtn.addEventListener('click', () => {
