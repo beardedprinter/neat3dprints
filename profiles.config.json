@@ -1,0 +1,27 @@
+{
+  "profiles": [
+    {
+      "platform": "printables",
+      "username": "BeardedPrinter",
+      "url": "https://www.printables.com/@BeardedPrinter/models"
+    },
+    {
+      "platform": "printables",
+      "username": "fixumdude",
+      "url": "https://www.printables.com/@fixumdude/models"
+    },
+    {
+      "platform": "makerworld",
+      "username": "Bearded.Printer",
+      "url": "https://makerworld.com/en/@Bearded.Printer/upload"
+    },
+    {
+      "platform": "thangs",
+      "username": "Bearded Printer",
+      "url": "https://thangs.com/designer/Bearded%20Printer"
+    }
+  ],
+  "models": [
+    "https://www.printables.com/model/17215-original-prusa-i3-mk3-printable-parts"
+  ]
+}
