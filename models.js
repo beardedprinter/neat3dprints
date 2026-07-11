@@ -13,7 +13,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1742392",
@@ -29,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1731270",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1731263",
@@ -61,7 +61,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1724361",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1703131",
@@ -93,7 +93,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1652900",
@@ -109,7 +109,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1646434",
@@ -119,13 +119,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646434-twisty-egg-lamp",
     "imageUrl": "https://media.printables.com/media/prints/d0173451-f009-418e-9711-571214e24f9f/images/12375213_146c2e29-86c0-4c52-bdc3-7e2054157c00_d0783e0e-1b8b-473e-a2f8-1c7d763d1cd5/thumbs/inside/320x240/jpg/twisty-egg3.webp",
     "likes": 16,
-    "downloads": 46,
-    "views": 216,
+    "downloads": 47,
+    "views": 220,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-03"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1646427",
@@ -141,7 +141,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-02"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-scraped-1646369",
@@ -157,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-01"
+    "lastUpdated": "2026-07-02"
   },
   {
     "id": "printables-scraped-1627286",
@@ -173,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-06-30"
+    "lastUpdated": "2026-07-01"
   },
   {
     "id": "printables-scraped-1604187",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
   },
   {
     "id": "printables-scraped-1743494",
@@ -205,7 +205,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1622853",
@@ -215,13 +215,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1622853-swirly-shamrock-earrings",
     "imageUrl": "https://media.printables.com/media/prints/5b1daf86-6771-4e79-ae8f-cb1de1a01886/images/12206741_139068b5-601a-47b8-841b-9e610cf49584_6095d847-07e2-4c9a-bb5d-3f2e05c5815c/thumbs/inside/320x240/jpg/swirlyshamrockearrings_02.webp",
     "likes": 16,
-    "downloads": 80,
-    "views": 352,
+    "downloads": 81,
+    "views": 356,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1598938",
@@ -237,7 +237,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1569695",
@@ -247,13 +247,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1569695-fdm-pip-trains-snap-on-replacement-wheels",
     "imageUrl": "https://media.printables.com/media/prints/7109ce54-12ef-4f4d-9229-51a95c4b63c0/images/11827392_b78a943e-3c2d-479f-a6fa-1524b114723b_18123ada-b8e8-472c-843f-77c8759cedf7/thumbs/inside/320x240/jpg/fdm_snaponwheels_4x3_01.webp",
     "likes": 4,
-    "downloads": 13,
-    "views": 60,
+    "downloads": 14,
+    "views": 64,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1553158",
@@ -279,13 +279,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1553158-snap-together-heart-napkin-holder",
     "imageUrl": "https://media.printables.com/media/prints/d9c1d5dc-40ae-4e4d-842b-f97b4e747d39/images/11709045_8f50930e-97c1-4aae-bbd9-485d3ca25931_b6334f20-30be-4d9f-bdbc-77bc32d72650/thumbs/inside/320x240/jpg/heartnapkinholder_4x3_01.webp",
     "likes": 5,
-    "downloads": 13,
-    "views": 62,
+    "downloads": 14,
+    "views": 66,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1553136",
@@ -301,7 +301,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1523200",
@@ -317,7 +317,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-03"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1431521",
@@ -326,14 +326,14 @@ window.modelsData = [
     "platform": "printables",
     "url": "https://www.printables.com/model/1431521-fixum-dude-motors-pip-diesel-train",
     "imageUrl": "https://media.printables.com/media/prints/e73ef8fb-177e-491e-8c33-b087e9f22c3b/images/10795830_dbf75901-9b58-4bae-bd6c-5acea4712820_9b1031f4-5d74-4414-a727-87f0f04940d3/thumbs/inside/320x240/png/fdm_train_4x3_02.webp",
-    "likes": 76,
-    "downloads": 281,
-    "views": 1276,
+    "likes": 77,
+    "downloads": 282,
+    "views": 1282,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-02"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-scraped-1226550",
@@ -349,7 +349,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-01"
+    "lastUpdated": "2026-07-02"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-06-30"
+    "lastUpdated": "2026-07-01"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,6 +381,22 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-06-29"
+    "lastUpdated": "2026-06-30"
+  },
+  {
+    "id": "printables-single-60186",
+    "title": "Page not found",
+    "creator": "Prusa Research",
+    "platform": "printables",
+    "url": "https://www.printables.com/model/17215-original-prusa-i3-mk3-printable-parts",
+    "imageUrl": "https://www.printables.com/_app/immutable/assets/MK404_covered_02.2.p-QcIpl7.webp",
+    "likes": 12450,
+    "downloads": 89300,
+    "views": 456200,
+    "tags": [
+      "Direct Link",
+      "printables"
+    ],
+    "lastUpdated": "2026-07-11"
   }
 ];
