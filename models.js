@@ -135,8 +135,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646427-dragon-egg-lamp",
     "imageUrl": "https://media.printables.com/media/prints/d25c8d6c-e900-4cde-8bf1-46b4b6fc61e2/images/12375168_e52d6538-9468-4520-9a74-6901049dd498_5728e198-2b4c-4618-a0ec-233ef45239db/thumbs/inside/320x240/jpg/dragon-egg6.webp",
     "likes": 13,
-    "downloads": 47,
-    "views": 214,
+    "downloads": 48,
+    "views": 218,
     "tags": [
       "3D Print",
       "Printables"
