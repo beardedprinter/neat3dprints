@@ -13,7 +13,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1742392",
@@ -29,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1731270",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1731263",
@@ -61,7 +61,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1724361",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1703131",
@@ -87,13 +87,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1703131-carousel-motorized-merry-go-round",
     "imageUrl": "https://media.printables.com/media/prints/3fbef85c-c11f-456b-aee3-9e1177ebcb5b/images/12780394_ff437787-0ba5-4733-ade3-9a8c419e2abe_204beb51-7eb8-4779-9bf8-70fb8bc82afa/thumbs/inside/320x240/jpg/carousel1.webp",
     "likes": 11,
-    "downloads": 33,
-    "views": 154,
+    "downloads": 34,
+    "views": 158,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1652900",
@@ -109,7 +109,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1646434",
@@ -125,7 +125,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1646427",
@@ -141,7 +141,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1646369",
@@ -157,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-03"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1627286",
@@ -173,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-02"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-scraped-1604187",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-01"
+    "lastUpdated": "2026-07-02"
   },
   {
     "id": "printables-scraped-1743494",
@@ -205,7 +205,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1622853",
@@ -221,7 +221,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1598938",
@@ -237,7 +237,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1569695",
@@ -253,7 +253,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1553158",
@@ -285,7 +285,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1553136",
@@ -301,7 +301,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1523200",
@@ -317,7 +317,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1431521",
@@ -333,7 +333,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1226550",
@@ -349,7 +349,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-03"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-02"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,7 +381,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-01"
+    "lastUpdated": "2026-07-02"
   },
   {
     "id": "printables-single-60186",
@@ -397,6 +397,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   }
 ];
