@@ -1,5 +1,21 @@
 window.modelsData = [
   {
+    "id": "printables-scraped-1780356",
+    "title": "Illuminated \"Happy Birthday\" LED Sign with Vine Frame",
+    "creator": "BeardedPrinter",
+    "platform": "printables",
+    "url": "https://www.printables.com/model/1780356-illuminated-happy-birthday-led-sign-with-vine-fram",
+    "imageUrl": "https://media.printables.com/media/prints/22b0e483-6aa6-452b-9bad-2eb6e6f9563b/images/13343020_5344a956-e028-42c0-8423-025d86cee3cc_59a611af-eacb-446e-9146-6e7d8024b9fa/thumbs/inside/320x240/jpg/happy-birthday-sign6.webp",
+    "likes": 0,
+    "downloads": 0,
+    "views": 0,
+    "tags": [
+      "3D Print",
+      "Printables"
+    ],
+    "lastUpdated": "2026-07-13"
+  },
+  {
     "id": "printables-scraped-1771741",
     "title": "Helix Spiral Table Lamp - Mid-Century Modern Desk Light",
     "creator": "BeardedPrinter",
@@ -13,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1742392",
@@ -29,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1731270",
@@ -39,13 +55,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1731270-cup-004-spiral-ribbed-desk-organizer-modern-vase-p",
     "imageUrl": "https://media.printables.com/media/prints/0353fd63-0720-49dc-9667-060148ddba9d/images/12981502_63d63d1b-cf9e-4d63-97b6-c1ee7fe583e6_44cd41bd-6428-4cbb-9500-6b6cba18dcc3/thumbs/inside/320x240/jpg/cup-004_3.webp",
     "likes": 5,
-    "downloads": 21,
-    "views": 94,
+    "downloads": 22,
+    "views": 98,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1731263",
@@ -61,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1724361",
@@ -77,7 +93,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1703131",
@@ -93,7 +109,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1652900",
@@ -109,7 +125,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1646434",
@@ -125,7 +141,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1646427",
@@ -141,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1646369",
@@ -157,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-scraped-1627286",
@@ -169,22 +185,6 @@ window.modelsData = [
     "likes": 32,
     "downloads": 104,
     "views": 480,
-    "tags": [
-      "3D Print",
-      "Printables"
-    ],
-    "lastUpdated": "2026-07-03"
-  },
-  {
-    "id": "printables-scraped-1604187",
-    "title": "Vase 004",
-    "creator": "BeardedPrinter",
-    "platform": "printables",
-    "url": "https://www.printables.com/model/1604187-vase-004",
-    "imageUrl": "https://media.printables.com/media/prints/71dd9404-7d09-4269-a4ac-54ed6805e4f8/images/12070423_25eab0be-ee81-49f0-8f28-824c85919df3_657eaf36-a747-4f17-a94f-e39d0c3fe5b4/thumbs/inside/320x240/jpg/vase-004_4_2.webp",
-    "likes": 11,
-    "downloads": 32,
-    "views": 150,
     "tags": [
       "3D Print",
       "Printables"
@@ -327,8 +327,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1431521-fixum-dude-motors-pip-diesel-train",
     "imageUrl": "https://media.printables.com/media/prints/e73ef8fb-177e-491e-8c33-b087e9f22c3b/images/10795830_dbf75901-9b58-4bae-bd6c-5acea4712820_9b1031f4-5d74-4414-a727-87f0f04940d3/thumbs/inside/320x240/png/fdm_train_4x3_02.webp",
     "likes": 77,
-    "downloads": 283,
-    "views": 1286,
+    "downloads": 284,
+    "views": 1290,
     "tags": [
       "3D Print",
       "Printables"
