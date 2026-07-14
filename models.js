@@ -7,13 +7,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1780356-illuminated-happy-birthday-led-sign-with-vine-fram",
     "imageUrl": "https://media.printables.com/media/prints/22b0e483-6aa6-452b-9bad-2eb6e6f9563b/images/13343020_5344a956-e028-42c0-8423-025d86cee3cc_59a611af-eacb-446e-9146-6e7d8024b9fa/thumbs/inside/320x240/jpg/happy-birthday-sign6.webp",
     "likes": 0,
-    "downloads": 0,
-    "views": 0,
+    "downloads": 1,
+    "views": 4,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1771741",
@@ -29,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1742392",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1731270",
@@ -61,7 +61,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1731263",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1724361",
@@ -93,7 +93,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1703131",
@@ -109,7 +109,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1652900",
@@ -125,7 +125,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1646434",
@@ -135,13 +135,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646434-twisty-egg-lamp",
     "imageUrl": "https://media.printables.com/media/prints/d0173451-f009-418e-9711-571214e24f9f/images/12375213_146c2e29-86c0-4c52-bdc3-7e2054157c00_d0783e0e-1b8b-473e-a2f8-1c7d763d1cd5/thumbs/inside/320x240/jpg/twisty-egg3.webp",
     "likes": 16,
-    "downloads": 47,
-    "views": 220,
+    "downloads": 48,
+    "views": 224,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1646427",
@@ -157,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1646369",
@@ -173,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-03"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1627286",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-02"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-scraped-1743494",
@@ -205,7 +205,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1622853",
@@ -221,7 +221,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1598938",
@@ -237,7 +237,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1569695",
@@ -253,7 +253,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1553158",
@@ -285,7 +285,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1553136",
@@ -295,13 +295,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1553136-mining-guild-tie-fighter-kit-card",
     "imageUrl": "https://media.printables.com/media/prints/8bdae8c6-3ba8-4988-8dfd-ad990dbf669b/images/11708679_859e7640-8e47-473f-995a-07b5b7c712b8_3893139f-6aa8-4e5c-836c-de6cd7f1729c/thumbs/inside/320x240/jpg/miningguildtiefighter_4x3_01.webp",
     "likes": 16,
-    "downloads": 14,
-    "views": 88,
+    "downloads": 15,
+    "views": 92,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1523200",
@@ -317,7 +317,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-06"
+    "lastUpdated": "2026-07-07"
   },
   {
     "id": "printables-scraped-1431521",
@@ -327,13 +327,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1431521-fixum-dude-motors-pip-diesel-train",
     "imageUrl": "https://media.printables.com/media/prints/e73ef8fb-177e-491e-8c33-b087e9f22c3b/images/10795830_dbf75901-9b58-4bae-bd6c-5acea4712820_9b1031f4-5d74-4414-a727-87f0f04940d3/thumbs/inside/320x240/png/fdm_train_4x3_02.webp",
     "likes": 77,
-    "downloads": 284,
-    "views": 1290,
+    "downloads": 285,
+    "views": 1294,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-05"
+    "lastUpdated": "2026-07-06"
   },
   {
     "id": "printables-scraped-1226550",
@@ -343,13 +343,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1226550-official-snap-on-wheels-for-fixum-dude-motors-prin",
     "imageUrl": "https://media.printables.com/media/prints/1226550/images/9200314_640f20bd-9d74-4f43-af70-129a341a378d_0812b7d4-54b7-4d2e-96e0-1670565ae99a/thumbs/inside/320x240/jpg/fdm_snaponwheels_4x3_09.webp",
     "likes": 66,
-    "downloads": 164,
-    "views": 788,
+    "downloads": 165,
+    "views": 792,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-04"
+    "lastUpdated": "2026-07-05"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-03"
+    "lastUpdated": "2026-07-04"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,7 +381,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-02"
+    "lastUpdated": "2026-07-03"
   },
   {
     "id": "printables-single-60186",
@@ -397,6 +397,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   }
 ];
