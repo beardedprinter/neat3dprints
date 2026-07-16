@@ -135,8 +135,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646434-twisty-egg-lamp",
     "imageUrl": "https://media.printables.com/media/prints/d0173451-f009-418e-9711-571214e24f9f/images/12375213_146c2e29-86c0-4c52-bdc3-7e2054157c00_d0783e0e-1b8b-473e-a2f8-1c7d763d1cd5/thumbs/inside/320x240/jpg/twisty-egg3.webp",
     "likes": 16,
-    "downloads": 48,
-    "views": 224,
+    "downloads": 49,
+    "views": 228,
     "tags": [
       "3D Print",
       "Printables"
