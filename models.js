@@ -87,8 +87,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1724361-birdhouse-002-mid-century-modern-birdhouse-succule",
     "imageUrl": "https://media.printables.com/media/prints/161ec84c-d49e-45c3-8f0e-9e35630955a5/images/12934710_0fd370e7-c70e-42f3-b707-f104a1367a4f_d677929c-15fa-40d4-a6c4-a26de5ace191/thumbs/inside/320x240/jpg/bird-house-002_7.webp",
     "likes": 197,
-    "downloads": 172,
-    "views": 1082,
+    "downloads": 173,
+    "views": 1086,
     "tags": [
       "3D Print",
       "Printables"
@@ -199,8 +199,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1743494-margarita-earrings-2d",
     "imageUrl": "https://media.printables.com/media/prints/3f566458-4fda-4e9d-8f86-8d8c184e8127/images/13066244_99dac8d9-113e-405e-aa04-7cf9aeef1345_47fcb522-4672-432a-a47d-e846656ee110/thumbs/inside/320x240/jpg/margaritaearrings_2d_03.webp",
     "likes": 3,
-    "downloads": 6,
-    "views": 30,
+    "downloads": 7,
+    "views": 34,
     "tags": [
       "3D Print",
       "Printables"
