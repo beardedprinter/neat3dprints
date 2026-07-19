@@ -13,7 +13,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1771741",
@@ -22,14 +22,14 @@ window.modelsData = [
     "platform": "printables",
     "url": "https://www.printables.com/model/1771741-helix-spiral-table-lamp-mid-century-modern-desk-li",
     "imageUrl": "https://media.printables.com/media/prints/7d328bd9-966e-43d3-9746-7bd5f4047490/images/13274989_764a29f6-e060-4e3a-8072-f32f922f5768_2fbe1998-6662-495d-b401-492b7ab91ed4/thumbs/inside/320x240/jpg/lamp5.webp",
-    "likes": 4,
-    "downloads": 11,
-    "views": 52,
+    "likes": 5,
+    "downloads": 12,
+    "views": 58,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1742392",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1731270",
@@ -55,13 +55,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1731270-cup-004-spiral-ribbed-desk-organizer-modern-vase-p",
     "imageUrl": "https://media.printables.com/media/prints/0353fd63-0720-49dc-9667-060148ddba9d/images/12981502_63d63d1b-cf9e-4d63-97b6-c1ee7fe583e6_44cd41bd-6428-4cbb-9500-6b6cba18dcc3/thumbs/inside/320x240/jpg/cup-004_3.webp",
     "likes": 5,
-    "downloads": 23,
-    "views": 102,
+    "downloads": 25,
+    "views": 110,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1731263",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1724361",
@@ -93,7 +93,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1703131",
@@ -109,7 +109,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1652900",
@@ -118,14 +118,14 @@ window.modelsData = [
     "platform": "printables",
     "url": "https://www.printables.com/model/1652900-bird-house-001-no-multi-color-printer-required",
     "imageUrl": "https://media.printables.com/media/prints/582aa0e7-764d-4a7f-898e-a774ff3c6a97/images/12421971_cdc99fc9-1fc2-495a-80a5-e7121e20b54a_abce2532-83fc-4719-ac56-1accff77607b/thumbs/inside/320x240/jpg/bird-house5.webp",
-    "likes": 25,
+    "likes": 26,
     "downloads": 83,
-    "views": 382,
+    "views": 384,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1646434",
@@ -141,7 +141,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1646427",
@@ -151,13 +151,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646427-dragon-egg-lamp",
     "imageUrl": "https://media.printables.com/media/prints/d25c8d6c-e900-4cde-8bf1-46b4b6fc61e2/images/12375168_e52d6538-9468-4520-9a74-6901049dd498_5728e198-2b4c-4618-a0ec-233ef45239db/thumbs/inside/320x240/jpg/dragon-egg6.webp",
     "likes": 13,
-    "downloads": 49,
-    "views": 222,
+    "downloads": 50,
+    "views": 226,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1646369",
@@ -173,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1627286",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-scraped-1743494",
@@ -199,13 +199,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1743494-margarita-earrings-2d",
     "imageUrl": "https://media.printables.com/media/prints/3f566458-4fda-4e9d-8f86-8d8c184e8127/images/13066244_99dac8d9-113e-405e-aa04-7cf9aeef1345_47fcb522-4672-432a-a47d-e846656ee110/thumbs/inside/320x240/jpg/margaritaearrings_2d_03.webp",
     "likes": 3,
-    "downloads": 7,
-    "views": 34,
+    "downloads": 8,
+    "views": 38,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1622853",
@@ -215,13 +215,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1622853-swirly-shamrock-earrings",
     "imageUrl": "https://media.printables.com/media/prints/5b1daf86-6771-4e79-ae8f-cb1de1a01886/images/12206741_139068b5-601a-47b8-841b-9e610cf49584_6095d847-07e2-4c9a-bb5d-3f2e05c5815c/thumbs/inside/320x240/jpg/swirlyshamrockearrings_02.webp",
     "likes": 16,
-    "downloads": 81,
-    "views": 356,
+    "downloads": 82,
+    "views": 360,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1598938",
@@ -237,7 +237,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1569695",
@@ -253,7 +253,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1553158",
@@ -285,7 +285,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1553136",
@@ -301,7 +301,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1523200",
@@ -317,7 +317,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1431521",
@@ -333,7 +333,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1226550",
@@ -349,7 +349,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,7 +381,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-07"
+    "lastUpdated": "2026-07-08"
   },
   {
     "id": "printables-single-60186",
@@ -397,6 +397,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   }
 ];
