@@ -13,7 +13,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   },
   {
     "id": "printables-scraped-1771741",
@@ -29,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1742392",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1731270",
@@ -61,7 +61,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1731263",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1724361",
@@ -93,7 +93,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1703131",
@@ -103,13 +103,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1703131-carousel-motorized-merry-go-round",
     "imageUrl": "https://media.printables.com/media/prints/3fbef85c-c11f-456b-aee3-9e1177ebcb5b/images/12780394_ff437787-0ba5-4733-ade3-9a8c419e2abe_204beb51-7eb8-4779-9bf8-70fb8bc82afa/thumbs/inside/320x240/jpg/carousel1.webp",
     "likes": 11,
-    "downloads": 34,
-    "views": 158,
+    "downloads": 35,
+    "views": 162,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1652900",
@@ -125,7 +125,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1646434",
@@ -141,7 +141,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1646427",
@@ -157,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1646369",
@@ -167,13 +167,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646369-floppy-stroopwafel",
     "imageUrl": "https://media.printables.com/media/prints/3e1ef93d-29fd-4376-87b5-665c890acc40/images/12376563_932ede0c-fffe-40ba-873a-40629937ad86_430f8ebb-4ad9-4898-8066-e44a7b83d452/thumbs/inside/320x240/jpg/floppy-stroopwafel7.webp",
     "likes": 7,
-    "downloads": 44,
-    "views": 190,
+    "downloads": 45,
+    "views": 194,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1627286",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-scraped-1743494",
@@ -205,7 +205,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   },
   {
     "id": "printables-scraped-1622853",
@@ -221,7 +221,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1598938",
@@ -237,7 +237,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1569695",
@@ -253,7 +253,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1553158",
@@ -285,7 +285,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1553136",
@@ -301,7 +301,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1523200",
@@ -317,7 +317,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1431521",
@@ -333,7 +333,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-11"
+    "lastUpdated": "2026-07-12"
   },
   {
     "id": "printables-scraped-1226550",
@@ -343,13 +343,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1226550-official-snap-on-wheels-for-fixum-dude-motors-prin",
     "imageUrl": "https://media.printables.com/media/prints/1226550/images/9200314_640f20bd-9d74-4f43-af70-129a341a378d_0812b7d4-54b7-4d2e-96e0-1670565ae99a/thumbs/inside/320x240/jpg/fdm_snaponwheels_4x3_09.webp",
     "likes": 66,
-    "downloads": 166,
-    "views": 796,
+    "downloads": 167,
+    "views": 800,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-10"
+    "lastUpdated": "2026-07-11"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-09"
+    "lastUpdated": "2026-07-10"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,7 +381,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-08"
+    "lastUpdated": "2026-07-09"
   },
   {
     "id": "printables-single-60186",
@@ -397,6 +397,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   }
 ];
