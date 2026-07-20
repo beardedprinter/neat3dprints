@@ -39,8 +39,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1742392-floppy-hot-makes-oreo",
     "imageUrl": "https://media.printables.com/media/prints/0979c1da-afd8-4fd3-bbfa-52690882324c/images/13057692_85a63ec3-0abc-4f28-b97f-b6587db08053_18430ee9-f319-4441-b3ec-8c4e3f0db7ae/thumbs/inside/320x240/png/floppy-hotmakes-oreo.webp",
     "likes": 2,
-    "downloads": 20,
-    "views": 84,
+    "downloads": 21,
+    "views": 88,
     "tags": [
       "3D Print",
       "Printables"
