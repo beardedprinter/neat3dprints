@@ -39,8 +39,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1742392-floppy-hot-makes-oreo",
     "imageUrl": "https://media.printables.com/media/prints/0979c1da-afd8-4fd3-bbfa-52690882324c/images/13057692_85a63ec3-0abc-4f28-b97f-b6587db08053_18430ee9-f319-4441-b3ec-8c4e3f0db7ae/thumbs/inside/320x240/png/floppy-hotmakes-oreo.webp",
     "likes": 2,
-    "downloads": 21,
-    "views": 88,
+    "downloads": 22,
+    "views": 92,
     "tags": [
       "3D Print",
       "Printables"
@@ -327,8 +327,8 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1431521-fixum-dude-motors-pip-diesel-train",
     "imageUrl": "https://media.printables.com/media/prints/e73ef8fb-177e-491e-8c33-b087e9f22c3b/images/10795830_dbf75901-9b58-4bae-bd6c-5acea4712820_9b1031f4-5d74-4414-a727-87f0f04940d3/thumbs/inside/320x240/png/fdm_train_4x3_02.webp",
     "likes": 77,
-    "downloads": 287,
-    "views": 1302,
+    "downloads": 288,
+    "views": 1306,
     "tags": [
       "3D Print",
       "Printables"
