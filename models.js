@@ -310,9 +310,9 @@ window.modelsData = [
     "platform": "printables",
     "url": "https://www.printables.com/model/1523200-crash-derby-ice-scream-truck-model",
     "imageUrl": "https://media.printables.com/media/prints/5a69c6be-75ac-4bed-8aeb-2efa8ab631f4/images/11474642_c831fadd-350c-4c6a-b2ff-47e9d033eef3_b65e9101-54c5-4632-96c3-46d6e9fa1356/thumbs/inside/320x240/jpg/crashderby_icescreamtruck_01.webp",
-    "likes": 41,
+    "likes": 42,
     "downloads": 45,
-    "views": 262,
+    "views": 264,
     "tags": [
       "3D Print",
       "Printables"
