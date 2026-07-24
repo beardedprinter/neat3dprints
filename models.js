@@ -13,7 +13,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-23"
+    "lastUpdated": "2026-07-24"
   },
   {
     "id": "printables-scraped-1771741",
@@ -29,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-22"
+    "lastUpdated": "2026-07-23"
   },
   {
     "id": "printables-scraped-1742392",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-21"
+    "lastUpdated": "2026-07-22"
   },
   {
     "id": "printables-scraped-1731270",
@@ -61,7 +61,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-20"
+    "lastUpdated": "2026-07-21"
   },
   {
     "id": "printables-scraped-1731263",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   },
   {
     "id": "printables-scraped-1724361",
@@ -86,14 +86,14 @@ window.modelsData = [
     "platform": "printables",
     "url": "https://www.printables.com/model/1724361-birdhouse-002-mid-century-modern-birdhouse-succule",
     "imageUrl": "https://media.printables.com/media/prints/161ec84c-d49e-45c3-8f0e-9e35630955a5/images/12934710_0fd370e7-c70e-42f3-b707-f104a1367a4f_d677929c-15fa-40d4-a6c4-a26de5ace191/thumbs/inside/320x240/jpg/bird-house-002_7.webp",
-    "likes": 197,
+    "likes": 198,
     "downloads": 173,
-    "views": 1086,
+    "views": 1088,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1703131",
@@ -103,13 +103,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1703131-carousel-motorized-merry-go-round",
     "imageUrl": "https://media.printables.com/media/prints/3fbef85c-c11f-456b-aee3-9e1177ebcb5b/images/12780394_ff437787-0ba5-4733-ade3-9a8c419e2abe_204beb51-7eb8-4779-9bf8-70fb8bc82afa/thumbs/inside/320x240/jpg/carousel1.webp",
     "likes": 11,
-    "downloads": 35,
-    "views": 162,
+    "downloads": 36,
+    "views": 166,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1652900",
@@ -125,7 +125,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1646434",
@@ -135,13 +135,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1646434-twisty-egg-lamp",
     "imageUrl": "https://media.printables.com/media/prints/d0173451-f009-418e-9711-571214e24f9f/images/12375213_146c2e29-86c0-4c52-bdc3-7e2054157c00_d0783e0e-1b8b-473e-a2f8-1c7d763d1cd5/thumbs/inside/320x240/jpg/twisty-egg3.webp",
     "likes": 16,
-    "downloads": 50,
-    "views": 232,
+    "downloads": 51,
+    "views": 236,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1646427",
@@ -157,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1646369",
@@ -173,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1627286",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-scraped-1743494",
@@ -205,7 +205,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-23"
+    "lastUpdated": "2026-07-24"
   },
   {
     "id": "printables-scraped-1622853",
@@ -221,7 +221,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-22"
+    "lastUpdated": "2026-07-23"
   },
   {
     "id": "printables-scraped-1598938",
@@ -237,7 +237,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-21"
+    "lastUpdated": "2026-07-22"
   },
   {
     "id": "printables-scraped-1569695",
@@ -253,7 +253,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-20"
+    "lastUpdated": "2026-07-21"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   },
   {
     "id": "printables-scraped-1553158",
@@ -285,7 +285,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1553136",
@@ -301,7 +301,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1523200",
@@ -310,14 +310,14 @@ window.modelsData = [
     "platform": "printables",
     "url": "https://www.printables.com/model/1523200-crash-derby-ice-scream-truck-model",
     "imageUrl": "https://media.printables.com/media/prints/5a69c6be-75ac-4bed-8aeb-2efa8ab631f4/images/11474642_c831fadd-350c-4c6a-b2ff-47e9d033eef3_b65e9101-54c5-4632-96c3-46d6e9fa1356/thumbs/inside/320x240/jpg/crashderby_icescreamtruck_01.webp",
-    "likes": 42,
+    "likes": 43,
     "downloads": 45,
-    "views": 264,
+    "views": 266,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1431521",
@@ -327,13 +327,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1431521-fixum-dude-motors-pip-diesel-train",
     "imageUrl": "https://media.printables.com/media/prints/e73ef8fb-177e-491e-8c33-b087e9f22c3b/images/10795830_dbf75901-9b58-4bae-bd6c-5acea4712820_9b1031f4-5d74-4414-a727-87f0f04940d3/thumbs/inside/320x240/png/fdm_train_4x3_02.webp",
     "likes": 78,
-    "downloads": 289,
-    "views": 1312,
+    "downloads": 290,
+    "views": 1316,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1226550",
@@ -349,7 +349,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,7 +381,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-12"
+    "lastUpdated": "2026-07-13"
   },
   {
     "id": "printables-single-60186",
@@ -397,6 +397,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-23"
+    "lastUpdated": "2026-07-24"
   }
 ];
