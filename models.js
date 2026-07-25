@@ -13,7 +13,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-24"
+    "lastUpdated": "2026-07-25"
   },
   {
     "id": "printables-scraped-1771741",
@@ -29,7 +29,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-23"
+    "lastUpdated": "2026-07-24"
   },
   {
     "id": "printables-scraped-1742392",
@@ -45,7 +45,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-22"
+    "lastUpdated": "2026-07-23"
   },
   {
     "id": "printables-scraped-1731270",
@@ -61,7 +61,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-21"
+    "lastUpdated": "2026-07-22"
   },
   {
     "id": "printables-scraped-1731263",
@@ -77,7 +77,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-20"
+    "lastUpdated": "2026-07-21"
   },
   {
     "id": "printables-scraped-1724361",
@@ -93,7 +93,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   },
   {
     "id": "printables-scraped-1703131",
@@ -109,7 +109,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1652900",
@@ -125,7 +125,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1646434",
@@ -141,7 +141,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1646427",
@@ -157,7 +157,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1646369",
@@ -173,7 +173,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1627286",
@@ -189,7 +189,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-scraped-1743494",
@@ -199,13 +199,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1743494-margarita-earrings-2d",
     "imageUrl": "https://media.printables.com/media/prints/3f566458-4fda-4e9d-8f86-8d8c184e8127/images/13066244_99dac8d9-113e-405e-aa04-7cf9aeef1345_47fcb522-4672-432a-a47d-e846656ee110/thumbs/inside/320x240/jpg/margaritaearrings_2d_03.webp",
     "likes": 3,
-    "downloads": 8,
-    "views": 38,
+    "downloads": 9,
+    "views": 42,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-24"
+    "lastUpdated": "2026-07-25"
   },
   {
     "id": "printables-scraped-1622853",
@@ -221,7 +221,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-23"
+    "lastUpdated": "2026-07-24"
   },
   {
     "id": "printables-scraped-1598938",
@@ -231,13 +231,13 @@ window.modelsData = [
     "url": "https://www.printables.com/model/1598938-swirly-heart-decoration",
     "imageUrl": "https://media.printables.com/media/prints/7f6f03d9-29ae-4446-9d22-d99938412af8/images/12030907_6084f281-601d-4c27-ba6b-8137186332f7_91eb7287-0d96-4b7a-bcb1-881f58663979/thumbs/inside/320x240/png/swirlyheartdecoration_4x3_02.webp",
     "likes": 14,
-    "downloads": 37,
-    "views": 176,
+    "downloads": 38,
+    "views": 180,
     "tags": [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-22"
+    "lastUpdated": "2026-07-23"
   },
   {
     "id": "printables-scraped-1569695",
@@ -253,7 +253,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-21"
+    "lastUpdated": "2026-07-22"
   },
   {
     "id": "printables-scraped-1569549",
@@ -269,7 +269,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-20"
+    "lastUpdated": "2026-07-21"
   },
   {
     "id": "printables-scraped-1553158",
@@ -285,7 +285,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-19"
+    "lastUpdated": "2026-07-20"
   },
   {
     "id": "printables-scraped-1553136",
@@ -301,7 +301,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-18"
+    "lastUpdated": "2026-07-19"
   },
   {
     "id": "printables-scraped-1523200",
@@ -317,7 +317,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-17"
+    "lastUpdated": "2026-07-18"
   },
   {
     "id": "printables-scraped-1431521",
@@ -333,7 +333,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-16"
+    "lastUpdated": "2026-07-17"
   },
   {
     "id": "printables-scraped-1226550",
@@ -349,7 +349,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-15"
+    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-scraped-1201558",
@@ -365,7 +365,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-14"
+    "lastUpdated": "2026-07-15"
   },
   {
     "id": "printables-scraped-1189473",
@@ -381,7 +381,7 @@ window.modelsData = [
       "3D Print",
       "Printables"
     ],
-    "lastUpdated": "2026-07-13"
+    "lastUpdated": "2026-07-14"
   },
   {
     "id": "printables-single-60186",
@@ -397,6 +397,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-24"
+    "lastUpdated": "2026-07-25"
   }
 ];
