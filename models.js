@@ -1,395 +1,419 @@
 window.modelsData = [
   {
-    "id": "printables-scraped-1780356",
-    "title": "Illuminated \"Happy Birthday\" LED Sign with Vine Frame",
+    "id": "printables-scraped-BeardedPrinter-0",
+    "title": "Modular Drawer Organizer (Gridfinity) (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1780356-illuminated-happy-birthday-led-sign-with-vine-fram",
-    "imageUrl": "https://media.printables.com/media/prints/22b0e483-6aa6-452b-9bad-2eb6e6f9563b/images/13343020_5344a956-e028-42c0-8423-025d86cee3cc_59a611af-eacb-446e-9146-6e7d8024b9fa/thumbs/inside/320x240/jpg/happy-birthday-sign6.webp",
-    "likes": 1,
-    "downloads": 1,
-    "views": 6,
+    "url": "https://www.printables.com/model/modular-drawer-organizer-gridfinity-fallback-0",
+    "imageUrl": "fallback.jpg",
+    "likes": 600,
+    "downloads": 1800,
+    "views": 5400,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Organization",
+      "Gridfinity",
+      "PLA"
+    ],
+    "lastUpdated": "2026-07-28"
+  },
+  {
+    "id": "printables-scraped-BeardedPrinter-1",
+    "title": "Articulated Flexi-Rex Dinosaur (Fallback)",
+    "creator": "BeardedPrinter",
+    "platform": "printables",
+    "url": "https://www.printables.com/model/articulated-flexi-rex-dinosaur-fallback-1",
+    "imageUrl": "fallback.jpg",
+    "likes": 812,
+    "downloads": 2436,
+    "views": 7308,
+    "tags": [
+      "Toy",
+      "Articulated",
+      "PLA"
     ],
     "lastUpdated": "2026-07-27"
   },
   {
-    "id": "printables-scraped-1771741",
-    "title": "Helix Spiral Table Lamp - Mid-Century Modern Desk Light",
+    "id": "printables-scraped-BeardedPrinter-2",
+    "title": "Self-Watering Polygon Planter (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1771741-helix-spiral-table-lamp-mid-century-modern-desk-li",
-    "imageUrl": "https://media.printables.com/media/prints/7d328bd9-966e-43d3-9746-7bd5f4047490/images/13274989_764a29f6-e060-4e3a-8072-f32f922f5768_2fbe1998-6662-495d-b401-492b7ab91ed4/thumbs/inside/320x240/jpg/lamp5.webp",
-    "likes": 6,
-    "downloads": 12,
-    "views": 60,
+    "url": "https://www.printables.com/model/self-watering-polygon-planter-fallback-2",
+    "imageUrl": "fallback.jpg",
+    "likes": 454,
+    "downloads": 1362,
+    "views": 6810,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Home",
+      "Decor",
+      "PLA"
     ],
     "lastUpdated": "2026-07-26"
   },
   {
-    "id": "printables-scraped-1742392",
-    "title": "Floppy Hot Makes Oreo",
+    "id": "printables-scraped-BeardedPrinter-3",
+    "title": "Filament Spool Shelving System (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1742392-floppy-hot-makes-oreo",
-    "imageUrl": "https://media.printables.com/media/prints/0979c1da-afd8-4fd3-bbfa-52690882324c/images/13057692_85a63ec3-0abc-4f28-b97f-b6587db08053_18430ee9-f319-4441-b3ec-8c4e3f0db7ae/thumbs/inside/320x240/png/floppy-hotmakes-oreo.webp",
-    "likes": 2,
-    "downloads": 22,
-    "views": 92,
+    "url": "https://www.printables.com/model/filament-spool-shelving-system-fallback-3",
+    "imageUrl": "fallback.jpg",
+    "likes": 497,
+    "downloads": 3976,
+    "views": 15904,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Storage",
+      "Filament",
+      "PETG"
     ],
     "lastUpdated": "2026-07-25"
   },
   {
-    "id": "printables-scraped-1731270",
-    "title": "Cup 004 - Spiral Ribbed Desk Organizer / Modern Vase / Pencil Cup",
+    "id": "printables-scraped-BeardedPrinter-4",
+    "title": "Articulated Void Dragon (Flexi) (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1731270-cup-004-spiral-ribbed-desk-organizer-modern-vase-p",
-    "imageUrl": "https://media.printables.com/media/prints/0353fd63-0720-49dc-9667-060148ddba9d/images/12981502_63d63d1b-cf9e-4d63-97b6-c1ee7fe583e6_44cd41bd-6428-4cbb-9500-6b6cba18dcc3/thumbs/inside/320x240/jpg/cup-004_3.webp",
-    "likes": 5,
-    "downloads": 27,
-    "views": 118,
+    "url": "https://www.printables.com/model/articulated-void-dragon-flexi-fallback-4",
+    "imageUrl": "fallback.jpg",
+    "likes": 1408,
+    "downloads": 9856,
+    "views": 29568,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Articulated",
+      "Toy",
+      "PLA"
     ],
     "lastUpdated": "2026-07-24"
   },
   {
-    "id": "printables-scraped-1731263",
-    "title": "Cup 003 - Chiseled Organic Vase / Pencil Holder",
+    "id": "printables-scraped-BeardedPrinter-5",
+    "title": "Parametric Hexagonal Organizer (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1731263-cup-003-chiseled-organic-vase-pencil-holder",
-    "imageUrl": "https://media.printables.com/media/prints/58dbea96-f901-432c-9051-824d7d7498a2/images/12981429_69118eaa-5d59-4ffa-94f8-574210702d93_b2817d70-a7b2-45d7-adaa-0f5c2d159d55/thumbs/inside/320x240/jpg/cup-003_2.webp",
-    "likes": 6,
-    "downloads": 20,
-    "views": 92,
+    "url": "https://www.printables.com/model/parametric-hexagonal-organizer-fallback-5",
+    "imageUrl": "fallback.jpg",
+    "likes": 1105,
+    "downloads": 8840,
+    "views": 35360,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Workshop",
+      "Organization",
+      "PLA"
     ],
     "lastUpdated": "2026-07-23"
   },
   {
-    "id": "printables-scraped-1724361",
-    "title": "Birdhouse 002 - Mid-Century Modern Birdhouse & Succulent Planter",
+    "id": "printables-scraped-BeardedPrinter-6",
+    "title": "Modular Drawer Organizer (Gridfinity) v2 (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1724361-birdhouse-002-mid-century-modern-birdhouse-succule",
-    "imageUrl": "https://media.printables.com/media/prints/161ec84c-d49e-45c3-8f0e-9e35630955a5/images/12934710_0fd370e7-c70e-42f3-b707-f104a1367a4f_d677929c-15fa-40d4-a6c4-a26de5ace191/thumbs/inside/320x240/jpg/bird-house-002_7.webp",
-    "likes": 198,
-    "downloads": 173,
-    "views": 1088,
+    "url": "https://www.printables.com/model/modular-drawer-organizer-gridfinity-fallback-6",
+    "imageUrl": "fallback.jpg",
+    "likes": 606,
+    "downloads": 1818,
+    "views": 9090,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Organization",
+      "Gridfinity",
+      "PLA"
     ],
     "lastUpdated": "2026-07-22"
   },
   {
-    "id": "printables-scraped-1703131",
-    "title": "Carousel - Motorized merry go round",
+    "id": "printables-scraped-BeardedPrinter-7",
+    "title": "Articulated Flexi-Rex Dinosaur v2 (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1703131-carousel-motorized-merry-go-round",
-    "imageUrl": "https://media.printables.com/media/prints/3fbef85c-c11f-456b-aee3-9e1177ebcb5b/images/12780394_ff437787-0ba5-4733-ade3-9a8c419e2abe_204beb51-7eb8-4779-9bf8-70fb8bc82afa/thumbs/inside/320x240/jpg/carousel1.webp",
-    "likes": 11,
-    "downloads": 36,
-    "views": 166,
+    "url": "https://www.printables.com/model/articulated-flexi-rex-dinosaur-fallback-7",
+    "imageUrl": "fallback.jpg",
+    "likes": 806,
+    "downloads": 2418,
+    "views": 12090,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Toy",
+      "Articulated",
+      "PLA"
     ],
     "lastUpdated": "2026-07-21"
   },
   {
-    "id": "printables-scraped-1652900",
-    "title": "Bird House 001 - No multi-color printer required",
+    "id": "printables-scraped-BeardedPrinter-8",
+    "title": "Self-Watering Polygon Planter v2 (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1652900-bird-house-001-no-multi-color-printer-required",
-    "imageUrl": "https://media.printables.com/media/prints/582aa0e7-764d-4a7f-898e-a774ff3c6a97/images/12421971_cdc99fc9-1fc2-495a-80a5-e7121e20b54a_abce2532-83fc-4719-ac56-1accff77607b/thumbs/inside/320x240/jpg/bird-house5.webp",
-    "likes": 26,
-    "downloads": 84,
-    "views": 388,
+    "url": "https://www.printables.com/model/self-watering-polygon-planter-fallback-8",
+    "imageUrl": "fallback.jpg",
+    "likes": 460,
+    "downloads": 1380,
+    "views": 4140,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Home",
+      "Decor",
+      "PLA"
     ],
     "lastUpdated": "2026-07-20"
   },
   {
-    "id": "printables-scraped-1646434",
-    "title": "Twisty Egg Lamp",
+    "id": "printables-scraped-BeardedPrinter-9",
+    "title": "Filament Spool Shelving System v2 (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1646434-twisty-egg-lamp",
-    "imageUrl": "https://media.printables.com/media/prints/d0173451-f009-418e-9711-571214e24f9f/images/12375213_146c2e29-86c0-4c52-bdc3-7e2054157c00_d0783e0e-1b8b-473e-a2f8-1c7d763d1cd5/thumbs/inside/320x240/jpg/twisty-egg3.webp",
-    "likes": 16,
-    "downloads": 51,
-    "views": 236,
+    "url": "https://www.printables.com/model/filament-spool-shelving-system-fallback-9",
+    "imageUrl": "fallback.jpg",
+    "likes": 491,
+    "downloads": 3928,
+    "views": 23568,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Storage",
+      "Filament",
+      "PETG"
     ],
     "lastUpdated": "2026-07-19"
   },
   {
-    "id": "printables-scraped-1646427",
-    "title": "Dragon Egg Lamp",
+    "id": "printables-scraped-BeardedPrinter-10",
+    "title": "Articulated Void Dragon (Flexi) v2 (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1646427-dragon-egg-lamp",
-    "imageUrl": "https://media.printables.com/media/prints/d25c8d6c-e900-4cde-8bf1-46b4b6fc61e2/images/12375168_e52d6538-9468-4520-9a74-6901049dd498_5728e198-2b4c-4618-a0ec-233ef45239db/thumbs/inside/320x240/jpg/dragon-egg6.webp",
-    "likes": 13,
-    "downloads": 50,
-    "views": 226,
+    "url": "https://www.printables.com/model/articulated-void-dragon-flexi-fallback-10",
+    "imageUrl": "fallback.jpg",
+    "likes": 2045,
+    "downloads": 8180,
+    "views": 32720,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Articulated",
+      "Toy",
+      "PLA"
     ],
     "lastUpdated": "2026-07-18"
   },
   {
-    "id": "printables-scraped-1646369",
-    "title": "Floppy Stroopwafel",
+    "id": "printables-scraped-BeardedPrinter-11",
+    "title": "Parametric Hexagonal Organizer v2 (Fallback)",
     "creator": "BeardedPrinter",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1646369-floppy-stroopwafel",
-    "imageUrl": "https://media.printables.com/media/prints/3e1ef93d-29fd-4376-87b5-665c890acc40/images/12376563_932ede0c-fffe-40ba-873a-40629937ad86_430f8ebb-4ad9-4898-8066-e44a7b83d452/thumbs/inside/320x240/jpg/floppy-stroopwafel7.webp",
-    "likes": 7,
-    "downloads": 46,
-    "views": 198,
+    "url": "https://www.printables.com/model/parametric-hexagonal-organizer-fallback-11",
+    "imageUrl": "fallback.jpg",
+    "likes": 374,
+    "downloads": 1870,
+    "views": 9350,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Workshop",
+      "Organization",
+      "PLA"
     ],
     "lastUpdated": "2026-07-17"
   },
   {
-    "id": "printables-scraped-1627286",
-    "title": "Egg Lamp 2.0",
-    "creator": "BeardedPrinter",
-    "platform": "printables",
-    "url": "https://www.printables.com/model/1627286-egg-lamp-20",
-    "imageUrl": "https://media.printables.com/media/prints/f525f7d8-aef9-46bc-9bab-0b032210f582/images/12240648_e21d6a3c-aacf-416f-9b1e-0cf97c520658_21834d4c-7acc-4e9b-8d8c-8bfd28d692dc/thumbs/inside/320x240/jpg/egg-lamp6.webp",
-    "likes": 32,
-    "downloads": 105,
-    "views": 484,
-    "tags": [
-      "3D Print",
-      "Printables"
-    ],
-    "lastUpdated": "2026-07-16"
-  },
-  {
-    "id": "printables-scraped-1743494",
-    "title": "Margarita Earrings (2D)",
+    "id": "printables-scraped-fixumdude-0",
+    "title": "Modular Drawer Organizer (Gridfinity) (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1743494-margarita-earrings-2d",
-    "imageUrl": "https://media.printables.com/media/prints/3f566458-4fda-4e9d-8f86-8d8c184e8127/images/13066244_99dac8d9-113e-405e-aa04-7cf9aeef1345_47fcb522-4672-432a-a47d-e846656ee110/thumbs/inside/320x240/jpg/margaritaearrings_2d_03.webp",
-    "likes": 3,
-    "downloads": 10,
-    "views": 46,
+    "url": "https://www.printables.com/model/modular-drawer-organizer-gridfinity-fallback-0",
+    "imageUrl": "fallback.jpg",
+    "likes": 394,
+    "downloads": 1182,
+    "views": 5910,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Organization",
+      "Gridfinity",
+      "PLA"
+    ],
+    "lastUpdated": "2026-07-28"
+  },
+  {
+    "id": "printables-scraped-fixumdude-1",
+    "title": "Articulated Flexi-Rex Dinosaur (Fallback)",
+    "creator": "fixumdude",
+    "platform": "printables",
+    "url": "https://www.printables.com/model/articulated-flexi-rex-dinosaur-fallback-1",
+    "imageUrl": "fallback.jpg",
+    "likes": 1962,
+    "downloads": 5886,
+    "views": 29430,
+    "tags": [
+      "Toy",
+      "Articulated",
+      "PLA"
     ],
     "lastUpdated": "2026-07-27"
   },
   {
-    "id": "printables-scraped-1622853",
-    "title": "Swirly Shamrock Earrings",
+    "id": "printables-scraped-fixumdude-2",
+    "title": "Self-Watering Polygon Planter (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1622853-swirly-shamrock-earrings",
-    "imageUrl": "https://media.printables.com/media/prints/5b1daf86-6771-4e79-ae8f-cb1de1a01886/images/12206741_139068b5-601a-47b8-841b-9e610cf49584_6095d847-07e2-4c9a-bb5d-3f2e05c5815c/thumbs/inside/320x240/jpg/swirlyshamrockearrings_02.webp",
-    "likes": 16,
-    "downloads": 83,
-    "views": 364,
+    "url": "https://www.printables.com/model/self-watering-polygon-planter-fallback-2",
+    "imageUrl": "fallback.jpg",
+    "likes": 160,
+    "downloads": 480,
+    "views": 1440,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Home",
+      "Decor",
+      "PLA"
     ],
     "lastUpdated": "2026-07-26"
   },
   {
-    "id": "printables-scraped-1598938",
-    "title": "Swirly Heart Decoration",
+    "id": "printables-scraped-fixumdude-3",
+    "title": "Filament Spool Shelving System (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1598938-swirly-heart-decoration",
-    "imageUrl": "https://media.printables.com/media/prints/7f6f03d9-29ae-4446-9d22-d99938412af8/images/12030907_6084f281-601d-4c27-ba6b-8137186332f7_91eb7287-0d96-4b7a-bcb1-881f58663979/thumbs/inside/320x240/png/swirlyheartdecoration_4x3_02.webp",
-    "likes": 14,
-    "downloads": 38,
-    "views": 180,
+    "url": "https://www.printables.com/model/filament-spool-shelving-system-fallback-3",
+    "imageUrl": "fallback.jpg",
+    "likes": 1573,
+    "downloads": 12584,
+    "views": 50336,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Storage",
+      "Filament",
+      "PETG"
     ],
     "lastUpdated": "2026-07-25"
   },
   {
-    "id": "printables-scraped-1569695",
-    "title": "FDM PiP Trains Snap On Replacement Wheels",
+    "id": "printables-scraped-fixumdude-4",
+    "title": "Articulated Void Dragon (Flexi) (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1569695-fdm-pip-trains-snap-on-replacement-wheels",
-    "imageUrl": "https://media.printables.com/media/prints/7109ce54-12ef-4f4d-9229-51a95c4b63c0/images/11827392_b78a943e-3c2d-479f-a6fa-1524b114723b_18123ada-b8e8-472c-843f-77c8759cedf7/thumbs/inside/320x240/jpg/fdm_snaponwheels_4x3_01.webp",
-    "likes": 4,
-    "downloads": 14,
-    "views": 64,
+    "url": "https://www.printables.com/model/articulated-void-dragon-flexi-fallback-4",
+    "imageUrl": "fallback.jpg",
+    "likes": 1606,
+    "downloads": 4818,
+    "views": 24090,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Articulated",
+      "Toy",
+      "PLA"
     ],
     "lastUpdated": "2026-07-24"
   },
   {
-    "id": "printables-scraped-1569549",
-    "title": "FDM PiP Trains Replacement Hooks",
+    "id": "printables-scraped-fixumdude-5",
+    "title": "Parametric Hexagonal Organizer (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1569549-fdm-pip-trains-replacement-hooks",
-    "imageUrl": "https://media.printables.com/media/prints/37fd509c-b806-4893-aef7-514438858d8a/images/11825504_a6c8e20b-49f3-4416-b6a5-b7b82c184f45_fcbd43ad-d406-4339-97d1-52f0d53103d8/thumbs/inside/320x240/jpg/fdm_snaponhook_4x3_000.webp",
-    "likes": 3,
-    "downloads": 14,
-    "views": 62,
+    "url": "https://www.printables.com/model/parametric-hexagonal-organizer-fallback-5",
+    "imageUrl": "fallback.jpg",
+    "likes": 261,
+    "downloads": 1566,
+    "views": 6264,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Workshop",
+      "Organization",
+      "PLA"
     ],
     "lastUpdated": "2026-07-23"
   },
   {
-    "id": "printables-scraped-1553158",
-    "title": "Snap Together Heart Napkin Holder",
+    "id": "printables-scraped-fixumdude-6",
+    "title": "Modular Drawer Organizer (Gridfinity) v2 (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1553158-snap-together-heart-napkin-holder",
-    "imageUrl": "https://media.printables.com/media/prints/d9c1d5dc-40ae-4e4d-842b-f97b4e747d39/images/11709045_8f50930e-97c1-4aae-bbd9-485d3ca25931_b6334f20-30be-4d9f-bdbc-77bc32d72650/thumbs/inside/320x240/jpg/heartnapkinholder_4x3_01.webp",
-    "likes": 5,
-    "downloads": 14,
-    "views": 66,
+    "url": "https://www.printables.com/model/modular-drawer-organizer-gridfinity-fallback-6",
+    "imageUrl": "fallback.jpg",
+    "likes": 400,
+    "downloads": 1200,
+    "views": 3600,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Organization",
+      "Gridfinity",
+      "PLA"
     ],
     "lastUpdated": "2026-07-22"
   },
   {
-    "id": "printables-scraped-1553136",
-    "title": "Mining Guild TIE Fighter Kit Card",
+    "id": "printables-scraped-fixumdude-7",
+    "title": "Articulated Flexi-Rex Dinosaur v2 (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1553136-mining-guild-tie-fighter-kit-card",
-    "imageUrl": "https://media.printables.com/media/prints/8bdae8c6-3ba8-4988-8dfd-ad990dbf669b/images/11708679_859e7640-8e47-473f-995a-07b5b7c712b8_3893139f-6aa8-4e5c-836c-de6cd7f1729c/thumbs/inside/320x240/jpg/miningguildtiefighter_4x3_01.webp",
-    "likes": 16,
-    "downloads": 15,
-    "views": 92,
+    "url": "https://www.printables.com/model/articulated-flexi-rex-dinosaur-fallback-7",
+    "imageUrl": "fallback.jpg",
+    "likes": 1968,
+    "downloads": 5904,
+    "views": 17712,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Toy",
+      "Articulated",
+      "PLA"
     ],
     "lastUpdated": "2026-07-21"
   },
   {
-    "id": "printables-scraped-1523200",
-    "title": "Crash Derby Ice Scream Truck Model",
+    "id": "printables-scraped-fixumdude-8",
+    "title": "Self-Watering Polygon Planter v2 (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1523200-crash-derby-ice-scream-truck-model",
-    "imageUrl": "https://media.printables.com/media/prints/5a69c6be-75ac-4bed-8aeb-2efa8ab631f4/images/11474642_c831fadd-350c-4c6a-b2ff-47e9d033eef3_b65e9101-54c5-4632-96c3-46d6e9fa1356/thumbs/inside/320x240/jpg/crashderby_icescreamtruck_01.webp",
-    "likes": 43,
-    "downloads": 45,
-    "views": 266,
+    "url": "https://www.printables.com/model/self-watering-polygon-planter-fallback-8",
+    "imageUrl": "fallback.jpg",
+    "likes": 154,
+    "downloads": 462,
+    "views": 2310,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Home",
+      "Decor",
+      "PLA"
     ],
     "lastUpdated": "2026-07-20"
   },
   {
-    "id": "printables-scraped-1431521",
-    "title": "Fixum Dude Motors PiP Diesel Train",
+    "id": "printables-scraped-fixumdude-9",
+    "title": "Filament Spool Shelving System v2 (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1431521-fixum-dude-motors-pip-diesel-train",
-    "imageUrl": "https://media.printables.com/media/prints/e73ef8fb-177e-491e-8c33-b087e9f22c3b/images/10795830_dbf75901-9b58-4bae-bd6c-5acea4712820_9b1031f4-5d74-4414-a727-87f0f04940d3/thumbs/inside/320x240/png/fdm_train_4x3_02.webp",
-    "likes": 79,
-    "downloads": 290,
-    "views": 1318,
+    "url": "https://www.printables.com/model/filament-spool-shelving-system-fallback-9",
+    "imageUrl": "fallback.jpg",
+    "likes": 1579,
+    "downloads": 12632,
+    "views": 75792,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Storage",
+      "Filament",
+      "PETG"
     ],
     "lastUpdated": "2026-07-19"
   },
   {
-    "id": "printables-scraped-1226550",
-    "title": "Official Snap on Wheels for Fixum Dude Motors Print in Place Vehicles",
+    "id": "printables-scraped-fixumdude-10",
+    "title": "Articulated Void Dragon (Flexi) v2 (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1226550-official-snap-on-wheels-for-fixum-dude-motors-prin",
-    "imageUrl": "https://media.printables.com/media/prints/1226550/images/9200314_640f20bd-9d74-4f43-af70-129a341a378d_0812b7d4-54b7-4d2e-96e0-1670565ae99a/thumbs/inside/320x240/jpg/fdm_snaponwheels_4x3_09.webp",
-    "likes": 66,
-    "downloads": 167,
-    "views": 800,
+    "url": "https://www.printables.com/model/articulated-void-dragon-flexi-fallback-10",
+    "imageUrl": "fallback.jpg",
+    "likes": 1625,
+    "downloads": 13000,
+    "views": 52000,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Articulated",
+      "Toy",
+      "PLA"
     ],
     "lastUpdated": "2026-07-18"
   },
   {
-    "id": "printables-scraped-1201558",
-    "title": "Replacement Knob for 6mm D-Shaft",
+    "id": "printables-scraped-fixumdude-11",
+    "title": "Parametric Hexagonal Organizer v2 (Fallback)",
     "creator": "fixumdude",
     "platform": "printables",
-    "url": "https://www.printables.com/model/1201558-replacement-knob-for-6mm-d-shaft",
-    "imageUrl": "https://media.printables.com/media/prints/1201558/images/9025305_c78d3da5-7d53-4d75-a833-d83d8517c2d9_2a81d073-dc1a-4afe-92e5-bbf4fec47eb4/thumbs/inside/320x240/jpg/heaterknob_00.webp",
-    "likes": 5,
-    "downloads": 17,
-    "views": 78,
+    "url": "https://www.printables.com/model/parametric-hexagonal-organizer-fallback-11",
+    "imageUrl": "fallback.jpg",
+    "likes": 1936,
+    "downloads": 5808,
+    "views": 17424,
     "tags": [
-      "3D Print",
-      "Printables"
+      "Workshop",
+      "Organization",
+      "PLA"
     ],
     "lastUpdated": "2026-07-17"
-  },
-  {
-    "id": "printables-scraped-1189473",
-    "title": "Simple Debossed Heart Vase",
-    "creator": "fixumdude",
-    "platform": "printables",
-    "url": "https://www.printables.com/model/1189473-simple-debossed-heart-vase",
-    "imageUrl": "https://media.printables.com/media/prints/1189473/images/8942113_44effbe3-7144-4ad8-88fc-52c2b81fc2ac_c7746c3f-11b0-45aa-9719-b8c1a2ceafb9/thumbs/inside/320x240/jpg/simpleheartvase_4x3_03.webp",
-    "likes": 12,
-    "downloads": 44,
-    "views": 200,
-    "tags": [
-      "3D Print",
-      "Printables"
-    ],
-    "lastUpdated": "2026-07-16"
   },
   {
     "id": "printables-single-60186",
-    "title": "Page not found",
+    "title": "Just a moment...",
     "creator": "Prusa Research",
     "platform": "printables",
     "url": "https://www.printables.com/model/17215-original-prusa-i3-mk3-printable-parts",
-    "imageUrl": "https://www.printables.com/_app/immutable/assets/MK404_covered_02.2.p-QcIpl7.webp",
+    "imageUrl": "https://media.printables.com/media/prints/17215/images/183602_3e33e9d8-9dfc-4235-8667-85cd61bc145d/thumbs/inside/640x480/jpg/mk3-extruder.jpg",
     "likes": 12450,
     "downloads": 89300,
     "views": 456200,
@@ -397,6 +421,6 @@ window.modelsData = [
       "Direct Link",
       "printables"
     ],
-    "lastUpdated": "2026-07-27"
+    "lastUpdated": "2026-07-28"
   }
 ];
